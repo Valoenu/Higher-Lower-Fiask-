@@ -1,2 +1,6 @@
-# Higher-Lower-Fiask-
-A simple Flask web app where users guess a number between 0 and 9 via the URL. The app responds with visual feedback using GIFs, indicating if the guess is too high, too low, or correct. A random number is generated at server start and remains fixed until restart. Fun way to learn Flask routing!
+#🎯 Higher-Lower Guessing Game
+A fun Flask web app where you guess a number between 0 and 9 by typing it in the URL (e.g., /5). The app gives feedback with cool GIFs showing if your guess is too high, too low, or correct. Great mini project to learn Flask basics like routing and dynamic URLs!
+
+⸻
+
+Let me know if you want a full README.md version with setup instructions and screenshots!
